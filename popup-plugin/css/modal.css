@@ -1,3 +1,13 @@
+.card {
+    margin: 20px;
+}
+
+.col {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 .vmodal {}
 
 .vmodal.open .modal-overlay,
